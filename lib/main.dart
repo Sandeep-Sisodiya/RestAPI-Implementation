@@ -1,7 +1,4 @@
-import 'package:api_tutorials/example2.dart';
-import 'package:api_tutorials/example3.dart';
 import 'package:api_tutorials/example4.dart';
-import 'package:api_tutorials/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
